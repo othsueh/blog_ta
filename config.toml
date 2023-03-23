@@ -1,0 +1,66 @@
+# //Basic Info Setting//
+baseURL = "https://othsueh.github.io/"
+languageCode = "zh-tw"
+title = "Othsueh's teaching Blog!"
+buildDrafts = false
+theme = "PaperMod"
+
+# //menu bar//
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 30
+
+
+# //profile page//
+[params.profileMode]
+enabled = true
+title = "Ready to learn?🧑🏻‍🏫"
+subtitle = "I’m Othsueh, a NTNU student major in CSIE, rookie in Computer Science.\n\nBut If you want to learn something, just ask me to teach you😎😎!"
+imageUrl = "img/avatar.png"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "Me by stable diffusion-Lora"
+
+[[params.profileMode.buttons]]
+name = "Blog"
+url = "/posts/"
+
+[[params.profileMode.buttons]]
+name = "Categories"
+url = "/categories/"
+
+[[params.socialIcons]]
+name = "steam"
+url = "https://steamcommunity.com/profiles/76561198442110713"
+
+[[params.socialIcons]]
+name = "spotify"
+url = "https://open.spotify.com/user/31kzwfwldb3wvlxfstfm4yzyfy6q"
+
+[[params.socialIcons]]
+name = "tiktok"
+url = "https://www.tiktok.com/zh-Hant-TW/"
+
+# //Article settings//
+[params]
+ShowBreadCrumbs = true    
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+
+[params.cover]
+linkFullImages = true
