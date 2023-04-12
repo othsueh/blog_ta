@@ -11,7 +11,7 @@ draft: false
 ### Heading 3 -->
 
 <!-- #### Heading 4
-Normal
+Heading 4 
 ##### Heading 5
 ###### Heading 6 -->
 
@@ -20,14 +20,13 @@ Normal
 
 <!-- **Bold** -->
 
-<!-- **_BoldItalic_** -->
+<!-- _**BoldItalic**_ -->
 
 <!-- ~~strikethrough~~ -->
 
 
 [//]: <TODO: BlockQuote & List>
-<!-- > Below is some list -->
-
+<!-- > Below is some list  -->
 <!-- - How
 * have 
 + you -->
@@ -38,6 +37,9 @@ Normal
 <!-- 3. Ahh...
 - [ ] Not
 * [X] Bad. -->
+
+
+<!-- \+ half -->
 
 [//]: <TODO: Code & Horizontal rule>
 
