@@ -1,31 +1,45 @@
-# //Basic Info Setting//
+# topic : Basic Info Setting
 # baseURL = "https://othsueh.github.io/"
 # languageCode = "zh-tw"
 # title = "Othsueh's teaching Blog!"
 # buildDrafts = false
 # theme = "PaperMod"
 
-# //menu bar//
+# topic : menu bar
+## subtopic : tags
 # [[menu.main]]
 # identifier = "tags"
 # name = "tags"
 # url = "/tags/"
 # weight = 10
 
+## subtopic : categories
 # [[menu.main]]
 # identifier = "categories"
 # name = "Categories"
 # url = "/categories/"
 # weight = 20
 
+## subtopic : archives
 # [[menu.main]]
 # identifier = "archives"
 # name = "Archives"
 # url = "/archives/"
 # weight = 30
 
+## subtopic : search
+# [[menu.main]]
+# name = "Search"
+# url = "/search/"
+# weight = 40
 
-# //profile page//
+# topic : Search
+# [outputs]
+# home = [ "HTML", "RSS", "JSON" ]
+
+
+# topic : Profile Page
+## subtopic : mainProfile
 # [params.profileMode]
 # enabled = true
 # title = "Ready to learn?🧑🏻‍🏫"
@@ -35,6 +49,7 @@
 # imageHeight = 120
 # imageTitle = "Me by stable diffusion-Lora"
 
+## subtopic : profile button
 # [[params.profileMode.buttons]]
 # name = "Blog"
 # url = "/posts/"
@@ -43,6 +58,7 @@
 # name = "Categories"
 # url = "/categories/"
 
+## subtopic : social icons
 # [[params.socialIcons]]
 # name = "steam"
 # url = "https://steamcommunity.com/profiles/76561198442110713"
@@ -55,7 +71,7 @@
 # name = "tiktok"
 # url = "https://www.tiktok.com/zh-Hant-TW/"
 
-# //Article settings//
+# topic : Article settings
 # [params]
 # ShowBreadCrumbs = true    
 # ShowReadingTime = true
