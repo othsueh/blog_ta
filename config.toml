@@ -1,5 +1,5 @@
 # topic : Basic Info Setting
-baseURL = "https://othsueh.github.io/"
+baseURL = "https://othsueh.github.io/blog_ta"
 languageCode = "zh-tw"
 title = "Othsueh's teaching Blog!"
 buildDrafts = false
