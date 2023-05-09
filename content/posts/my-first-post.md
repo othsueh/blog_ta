@@ -3,54 +3,52 @@ title: "My First Post"
 date: 2023-03-23T13:45:28+08:00
 draft: false
 ---
-# Hello World!
+<!-- # Hello World! -->
 
 [//]: <TODO: Heading>
-# Heading 1
+<!-- # Heading 1
 ## Heading 2
-### Heading 3
+### Heading 3 -->
 
-#### Heading 4
+<!-- #### Heading 4
 Heading 4 
 ##### Heading 5
-###### Heading 6
+###### Heading 6 -->
 
 [//]: <TODO: Font>
-_italic_
+<!-- _italic_ -->
 
-**Bold**
+<!-- **Bold** -->
 
-_**BoldItalic**_
+<!-- _**BoldItalic**_ -->
 
-~~strikethrough~~
+<!-- ~~strikethrough~~ -->
 
 
 [//]: <TODO: BlockQuote & List>
-> Below is some list 
-- How
+<!-- > Below is some list  -->
+<!-- - How
 * have 
-+ you
++ you -->
 
-1. been
+<!-- 1. been
 2. lately? 
 
-3. Ahh...
-- [ ] Not
-* [X] Bad.
+3. Ahh... -->
+<!-- - [ ] Not
+* [X] Bad. -->
 
 
 <!-- \+ half -->
 
 [//]: <TODO: Code & Horizontal rule>
 
-<!-- hello world
-hello <br/> world -->
 
-`Markdown`
+<!-- `Markdown` -->
 
-```Markdown = 
+<!-- ```Markdown = 
 # Hello World!
-``` 
+```  -->
 
 ---
 
@@ -58,8 +56,8 @@ hello <br/> world -->
 
 [//]: <TODO: Link & Image>
 
-[Google](https://www.google.com.tw/?hl=zh_TW)
+<!-- [Google](https://www.google.com.tw/?hl=zh_TW) -->
 
-![A flog ride on a newt !?](
-https://media.giphy.com/media/FydJitsmqgIOEaDZnR/giphy.gif
-)
+<!-- ![A flog ride on a newt !?](
+) -->
+<!-- https://media.giphy.com/media/FydJitsmqgIOEaDZnR/giphy.gif -->
