@@ -39,7 +39,6 @@ _**BoldItalic**_
 * [X] Bad.
 
 
-<!-- \+ half -->
 
 [//]: <TODO: Code & Horizontal rule>
 
