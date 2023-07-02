@@ -54,11 +54,11 @@ imageTitle = "Me by stable diffusion-Lora"
 ## subtopic : profile button
 [[params.profileMode.buttons]]
 name = "Blog"
-url = "https://othsueh.github.io/blog_ta/post"
+url = "othsueh.github.io/blog_ta/post"
 # https://othsueh.github.io/blog_ta/post
 [[params.profileMode.buttons]]
 name = "Categories"
-url = "https://othsueh.github.io/blog_ta/categories"
+url = "othsueh.github.io/blog_ta/categories"
 # https://othsueh.github.io/blog_ta/categories
 
 ## subtopic : social icons
